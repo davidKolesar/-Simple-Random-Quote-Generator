@@ -1,6 +1,5 @@
 window.onload = loadQuoteArray();
 
-
 function loadQuoteArray() {
 	//Storing quotes in array
 	var quoteVault = [
