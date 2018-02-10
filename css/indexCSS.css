@@ -1,0 +1,21 @@
+/* Syling for Quote Machine */
+
+html,body {
+    height:100%;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+	color: #000;
+	position: center;
+}
+
+/* Random Quote Generator Styles*/
+#quoteOutputSpace {
+text-align: center;
+font-style: italic;
+margin-left: auto;
+margin-right: auto;
+width: 8em
+}
+
